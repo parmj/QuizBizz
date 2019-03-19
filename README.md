@@ -1,6 +1,7 @@
 # QuizzBizz
 
-A real time game that will makes classrooms more fun. You can sign up and create a Quiz and share a unique room code that users can join and play. It is a jeopardy like game where the first person to push the buzzer get’s to answer and the points are tracked.
+QuizzBizz is a cross-platform web app which runs on Nodejs. QuizzBizz provides a fun classroom environment by engaging students through interesting quiz questions. It is a jeopardy like game where the first person to push the buzzer gets to answer.
+
 
 ## Getting Started
 
