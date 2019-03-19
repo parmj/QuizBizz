@@ -59,8 +59,17 @@ node server
 ```
 
 ## For Developers
-## Comments
-How to Play
+
+## Features
+
+* [x] Register / Login / Logout 
+* [x] Create / Edit / Delete quizzes
+* [x] Buzzer For Every Question
+* [x] Cross-Platform
+* [x] Start Quiz / Share Room Code
+* [x] Points Tracking System
+
+How to Start the Game
 
 Teacher (Host)                       
 
@@ -69,14 +78,14 @@ Teacher (Host)
 3. Start Quiz / Share Room Code		  
 4. Enable Buzzer Every Question		  
 
- Student (Player)
+Student (Player)
 
 1. Enter Room Code
 2. Press Buzzer First
 3. Gain Points for Correct Answer
 4. Other Players Can steal if Wrong
 
-## Members
+## Development Members
 
 * **Raymond Eng** - *Front End (React) / API & Database* 
 * **Parmvir Johal** - *API & Database / Socket.io* 
