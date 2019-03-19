@@ -7,7 +7,21 @@ QuizzBizz is a cross-platform web app which runs on Nodejs. QuizzBizz provides a
 
 The instructions below allow you to download, run and continue the development process of the project. Please visit the deployment section for deployment information.
 
-## Running with Vagrant
+### Prerequisites
+
+Node JS needs to be installed
+
+```
+https://nodejs.org/en/download/
+```
+
+MongoDB needs to be installed
+
+```
+https://www.mongodb.com/download-center?jmp=nav
+```
+
+### Running with Vagrant
 
 How to start VM
 ```
@@ -24,21 +38,7 @@ https://quizbizz470.herokuapp.com/ (Heroku just in case)
 Server runs on port 5622, 
 Database runs on port 3711
 
-### Prerequisites
-
-Node JS needs to be installed
-
-```
-https://nodejs.org/en/download/
-```
-
-MongoDB needs to be installed
-
-```
-https://www.mongodb.com/download-center?jmp=nav
-```
-
-### Installing
+### Build project
 
 How to run the project locally
 
@@ -58,6 +58,7 @@ Start the server
 node server
 ```
 
+## For Developers
 ## Comments
 How to Play
 
